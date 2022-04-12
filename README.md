@@ -8,3 +8,8 @@
 ------
 <p > 本项目旨在探讨成为一名合格程序员所必需具备的<strong>基本功🪜</strong>和<strong>软技能🔧</strong></p>
 <p > This project aims to discuss <strong>the essential techniques🪜</strong> and <strong>soft skills🔧</strong> a qualified developer should own.</p>
+
+------
+# Notes
+- 面向普遍开发者，但一些具体的例子可能会以前端角度阐述 —— Be appropriate for most developers (coders)
+- 不建立在任何具体的框架或技术 —— No specific frameworks or techniques.
