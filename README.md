@@ -11,8 +11,8 @@
 
 ------
 # Notes
-- 面向普遍开发者，但一些具体的例子可能会以前端角度阐述 —— Be appropriate for most developers (coders)
-- 不建立在任何具体的框架或技术 —— No specific frameworks or techniques.
+- 内容对开发者具有普适性，但一些具体的例子可能会以**前端角度**阐述 —— Be appropriate for most developers (coders)
+- 探讨的更多是**能力与技巧**，尽可能不依赖具体的框架或技术 —— No specific frameworks or techniques.
 ------
 
 # Mindmap(WIP)
