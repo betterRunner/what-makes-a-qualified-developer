@@ -13,3 +13,7 @@
 # Notes
 - 面向普遍开发者，但一些具体的例子可能会以前端角度阐述 —— Be appropriate for most developers (coders)
 - 不建立在任何具体的框架或技术 —— No specific frameworks or techniques.
+------
+
+# Mindmap(WIP)
+<img src="https://user-images.githubusercontent.com/7123136/163100532-8ae85c8a-9cbd-45fd-8f57-bea53dd3bb33.svg">
