@@ -4,7 +4,7 @@
 </p>
 
 ------
-<p > 本项目旨在探讨成为一名合格程序员所必需具备的<strong>基本功🪜</strong>和<strong>软技能🔧</strong></p>
+<p > 本项目旨在探讨成为一名合格开发者所必需具备的<strong>基本功🪜</strong>和<strong>软技能🔧</strong></p>
 <p > This project aims to discuss <strong>the essential techniques🪜</strong> and <strong>soft skills🔧</strong> a qualified developer should own.</p>
 
 ------
